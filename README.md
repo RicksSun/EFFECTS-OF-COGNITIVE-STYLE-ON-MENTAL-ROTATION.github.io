@@ -1,4 +1,4 @@
-3.其它# Effects of Cognitive Style on Mental Rotation场认知方式对心理旋转的影响
+# Effects of Cognitive Style on Mental Rotation场认知方式对心理旋转的影响
 北京师范大学实验心理学实验课程作业，组员：廖祎，孙亦凡，邢中
 
 1.人员分工
